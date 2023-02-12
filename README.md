@@ -1,1 +1,1 @@
-1. 0x00-shell_basic
+1. script that prints the absolute path name of the current working directory.
