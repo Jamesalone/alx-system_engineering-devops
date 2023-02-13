@@ -13,3 +13,4 @@
 9. Bye bye My first directory.
 10. Back to the future.
 11. Lists.
+12. Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
