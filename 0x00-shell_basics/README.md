@@ -1,12 +1,13 @@
-1. script that prints the absolute path name of the current working directory.
-2. Display the contents list of your current directory.
-3. Write a script that changes the working directory to the user’s home directory.
-4. Display current directory contents in a long format
-5. Display current directory contents, including hidden files (starting with .). Use the long format.
-6. Display current directory contents.
+0. script that prints the absolute path name of the current working directory.
+1. Display the contents list of your current directory.
+2. Write a script that changes the working directory to the user’s home directory.
+3. Display current directory contents in a long format
+4. Display current directory contents, including hidden files (starting with .). Use the long format.
+5. Display current directory contents.
 	*Long format
 	*with user and group IDs displayed numerically
 	*And hidden files (starting with .)
-7. Create a script that creates a directory named my_first_directory in the /tmp/ directory.
-8. Betty in my first directory
-9. Bye bye Betty.
+6. Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+7. Betty in my first directory.
+8. Bye bye Betty.
+9. Bye bye My first directory.
